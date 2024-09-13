@@ -13,6 +13,6 @@ Pytorch
 
 ## Project Certificate
 
-I completed this guided project as part of the [Coursera Project: Build a Generative Adversarial Network ]([https://www.coursera.org/verify/your_certificate_id](https://www.coursera.org/learn/deep-learning-with-pytorch-generative-adversarial-network/). Here is the certificate for verification:
+I completed this guided project as part of the [Coursera Project: Build a Generative Adversarial Network ](https://www.coursera.org/learn/deep-learning-with-pytorch-generative-adversarial-network/). Here is the certificate for verification:
 
-[![Coursera Certificate](https://example.com/path_to_certificate_image.png)](https://coursera.org/share/fab6fc950e430757a2072d76f5dbab64)
+[Coursera Certificate](https://coursera.org/share/fab6fc950e430757a2072d76f5dbab64)
